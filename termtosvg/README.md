@@ -10,5 +10,7 @@
 **stop termtosvg rec**
 >`exit` or `Ctrl+D`
 
-![demo](./termtosvg_demo.svg)
+<p align="center">
+        <object data="termtosvg.svg"></object>
+</p>
 
