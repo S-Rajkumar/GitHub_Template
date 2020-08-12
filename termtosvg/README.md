@@ -1,10 +1,11 @@
 # termtosvg
->you can copy the text in below demo video that's the special in `termtosvg`
-**start termtosvg rec**
-`python3 -m termtosvg`
+>you can copy the text from [raw svg file](https://raw.githubusercontent.com/S-Rajkumar/GitHub_Template/master/termtosvg/termtosvg_demo.svg)
 
-**stop rec in termtosvg**
-`exit` or `Ctrl+D`
+**start termtosvg rec**
+>`python3 -m termtosvg`
+
+**stop termtosvg rec**
+>`exit` or `Ctrl+D`
 
 ![demo](./termtosvg_demo.svg)
 
